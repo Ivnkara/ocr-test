@@ -1,0 +1,4 @@
+github.com/joho/godotenv v1.3.0 h1:Zjp+RcGpHhGlrMbJzXTrZZPrWj+1vfm90La1wgB6Bhc=
+github.com/joho/godotenv v1.3.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=
+github.com/ranghetto/go_ocr_space v0.0.0-20190617120011-980751a8a409 h1:8oI32HLFTHqKFQ2Z+TQ5Rx5NZ4SYaCMHkibGMwj/jrw=
+github.com/ranghetto/go_ocr_space v0.0.0-20190617120011-980751a8a409/go.mod h1:JRk14mjJf4qaBzi+SjeUGYagU672VwaBh0z/1rLFRA4=
