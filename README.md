@@ -1,4 +1,4 @@
-Install golang 1.16 and great. How install see here https://golang.org/doc/install
+Install golang 1.16 or great. How install see here https://golang.org/doc/install
 
 Run:
 ```git clone git@github.com:Ivnkara/ocr-test.git && cd ocr-test```
